@@ -1,0 +1,6 @@
+﻿  Week9_Queue.cpp
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\Week9_Queue\Week9_Queue.cpp(252,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\Week9_Queue\Week9_Queue.cpp(286,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\Week9_Queue\Week9_Queue.cpp(305,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\Week9_Queue\Week9_Queue.cpp(324,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Week9_Queue.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\x64\Debug\Week9_Queue.exe
