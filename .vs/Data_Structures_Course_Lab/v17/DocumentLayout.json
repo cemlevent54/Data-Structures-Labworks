@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E8B3C1C6-071D-41A4-87FB-BE992D69B01B}|Lab05_ThreadedBST\\Lab05_ThreadedBST.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\Lab05_ThreadedBST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8B3C1C6-071D-41A4-87FB-BE992D69B01B}|Lab05_ThreadedBST\\Lab05_ThreadedBST.vcxproj|solutionrelative:Lab05_ThreadedBST\\Lab05_ThreadedBST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8B3C1C6-071D-41A4-87FB-BE992D69B01B}|Lab05_ThreadedBST\\Lab05_ThreadedBST.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\BSTNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8B3C1C6-071D-41A4-87FB-BE992D69B01B}|Lab05_ThreadedBST\\Lab05_ThreadedBST.vcxproj|solutionrelative:Lab05_ThreadedBST\\BSTNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8B3C1C6-071D-41A4-87FB-BE992D69B01B}|Lab05_ThreadedBST\\Lab05_ThreadedBST.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\ThreadedBST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8B3C1C6-071D-41A4-87FB-BE992D69B01B}|Lab05_ThreadedBST\\Lab05_ThreadedBST.vcxproj|solutionrelative:Lab05_ThreadedBST\\ThreadedBST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8B3C1C6-071D-41A4-87FB-BE992D69B01B}|Lab05_ThreadedBST\\Lab05_ThreadedBST.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\ThreadedBST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E8B3C1C6-071D-41A4-87FB-BE992D69B01B}|Lab05_ThreadedBST\\Lab05_ThreadedBST.vcxproj|solutionrelative:Lab05_ThreadedBST\\ThreadedBST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,58 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ThreadedBST.cpp",
-              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\ThreadedBST.cpp",
-              "RelativeDocumentMoniker": "Lab05_ThreadedBST\\ThreadedBST.cpp",
-              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\ThreadedBST.cpp",
-              "RelativeToolTip": "Lab05_ThreadedBST\\ThreadedBST.cpp",
-              "ViewState": "AQIAAOAAAAAAAAAAAAAAwPQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T08:58:27.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ThreadedBST.h",
-              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\ThreadedBST.h",
-              "RelativeDocumentMoniker": "Lab05_ThreadedBST\\ThreadedBST.h",
-              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\ThreadedBST.h",
-              "RelativeToolTip": "Lab05_ThreadedBST\\ThreadedBST.h",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-11T08:58:04.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BSTNode.h",
-              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\BSTNode.h",
-              "RelativeDocumentMoniker": "Lab05_ThreadedBST\\BSTNode.h",
-              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\BSTNode.h",
-              "RelativeToolTip": "Lab05_ThreadedBST\\BSTNode.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-11T08:57:52.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lab05_ThreadedBST.cpp",
-              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\Lab05_ThreadedBST.cpp",
-              "RelativeDocumentMoniker": "Lab05_ThreadedBST\\Lab05_ThreadedBST.cpp",
-              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab05_ThreadedBST\\Lab05_ThreadedBST.cpp",
-              "RelativeToolTip": "Lab05_ThreadedBST\\Lab05_ThreadedBST.cpp",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAowJAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T08:57:29.054Z",
-              "EditorCaption": ""
             }
           ]
         }
