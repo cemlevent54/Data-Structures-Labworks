@@ -1,0 +1,6 @@
+﻿  Week14_Set_Map.cpp
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\Week14_Set_Map\Map.h(74,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\Week14_Set_Map\Map.h(25,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\Week14_Set_Map\Set.h(106,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\Week14_Set_Map\Set.h(101,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Week14_Set_Map.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\x64\Debug\Week14_Set_Map.exe
