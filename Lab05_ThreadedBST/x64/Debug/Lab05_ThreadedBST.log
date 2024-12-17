@@ -1,6 +1,1 @@
-﻿  Lab05_ThreadedBST.cpp
-C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\Lab05_ThreadedBST\Lab05_ThreadedBST.cpp(75,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\Lab05_ThreadedBST\Lab05_ThreadedBST.cpp(136,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  ThreadedBST.cpp
-  Generating Code...
-  Lab05_ThreadedBST.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\x64\Debug\Lab05_ThreadedBST.exe
+﻿  Lab05_ThreadedBST.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\x64\Debug\Lab05_ThreadedBST.exe

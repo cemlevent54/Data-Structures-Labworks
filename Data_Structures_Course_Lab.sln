@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week13_SplayTrees", "Week13
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week14_Set_Map", "Week14_Set_Map\Week14_Set_Map.vcxproj", "{AA81C529-7B35-4BF3-AC8E-43A4A7AE7EB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab06_CountFrequency", "Lab06_CountFrequency\Lab06_CountFrequency.vcxproj", "{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{AA81C529-7B35-4BF3-AC8E-43A4A7AE7EB7}.Release|x64.Build.0 = Release|x64
 		{AA81C529-7B35-4BF3-AC8E-43A4A7AE7EB7}.Release|x86.ActiveCfg = Release|Win32
 		{AA81C529-7B35-4BF3-AC8E-43A4A7AE7EB7}.Release|x86.Build.0 = Release|Win32
+		{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}.Debug|x64.ActiveCfg = Debug|x64
+		{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}.Debug|x64.Build.0 = Debug|x64
+		{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}.Debug|x86.Build.0 = Debug|Win32
+		{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}.Release|x64.ActiveCfg = Release|x64
+		{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}.Release|x64.Build.0 = Release|x64
+		{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}.Release|x86.ActiveCfg = Release|Win32
+		{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

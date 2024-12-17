@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}|Lab06_CountFrequency\\Lab06_CountFrequency.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}|Lab06_CountFrequency\\Lab06_CountFrequency.vcxproj|solutionrelative:Lab06_CountFrequency\\1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}|Lab06_CountFrequency\\Lab06_CountFrequency.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\Lab06_CountFrequency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}|Lab06_CountFrequency\\Lab06_CountFrequency.vcxproj|solutionrelative:Lab06_CountFrequency\\Lab06_CountFrequency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}|Lab06_CountFrequency\\Lab06_CountFrequency.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}|Lab06_CountFrequency\\Lab06_CountFrequency.vcxproj|solutionrelative:Lab06_CountFrequency\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}|Lab06_CountFrequency\\Lab06_CountFrequency.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\WordFreq.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBF0103-E3EE-4EB9-A8B6-77F03EDD77FE}|Lab06_CountFrequency\\Lab06_CountFrequency.vcxproj|solutionrelative:Lab06_CountFrequency\\WordFreq.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA81C529-7B35-4BF3-AC8E-43A4A7AE7EB7}|Week14_Set_Map\\Week14_Set_Map.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Week14_Set_Map\\Week14_Set_Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AA81C529-7B35-4BF3-AC8E-43A4A7AE7EB7}|Week14_Set_Map\\Week14_Set_Map.vcxproj|solutionrelative:Week14_Set_Map\\Week14_Set_Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +50,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.txt",
+              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\1.txt",
+              "RelativeDocumentMoniker": "Lab06_CountFrequency\\1.txt",
+              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\1.txt",
+              "RelativeToolTip": "Lab06_CountFrequency\\1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-17T22:44:52.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\Solution.cpp",
+              "RelativeDocumentMoniker": "Lab06_CountFrequency\\Solution.cpp",
+              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\Solution.cpp",
+              "RelativeToolTip": "Lab06_CountFrequency\\Solution.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAADwv0gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T22:41:53.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordFreq.h",
+              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\WordFreq.h",
+              "RelativeDocumentMoniker": "Lab06_CountFrequency\\WordFreq.h",
+              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\WordFreq.h",
+              "RelativeToolTip": "Lab06_CountFrequency\\WordFreq.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvw8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T22:41:23.62Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Lab06_CountFrequency.cpp",
+              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\Lab06_CountFrequency.cpp",
+              "RelativeDocumentMoniker": "Lab06_CountFrequency\\Lab06_CountFrequency.cpp",
+              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Lab06_CountFrequency\\Lab06_CountFrequency.cpp",
+              "RelativeToolTip": "Lab06_CountFrequency\\Lab06_CountFrequency.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T22:39:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Set.h",
               "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Week14_Set_Map\\Set.h",
               "RelativeDocumentMoniker": "Week14_Set_Map\\Set.h",
@@ -42,12 +108,11 @@
               "RelativeToolTip": "Week14_Set_Map\\Set.h",
               "ViewState": "AQIAAGYAAAAAAAAAAADwv24AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-17T22:27:44.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T22:27:44.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Map.h",
               "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Week14_Set_Map\\Map.h",
               "RelativeDocumentMoniker": "Week14_Set_Map\\Map.h",
@@ -55,12 +120,11 @@
               "RelativeToolTip": "Week14_Set_Map\\Map.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-17T22:27:37.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T22:27:37.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Week14_Set_Map.cpp",
               "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Veri_Yap\u0131lar\u0131_Lab\\Data-Structures-Labworks\\Week14_Set_Map\\Week14_Set_Map.cpp",
               "RelativeDocumentMoniker": "Week14_Set_Map\\Week14_Set_Map.cpp",
@@ -68,8 +132,7 @@
               "RelativeToolTip": "Week14_Set_Map\\Week14_Set_Map.cpp",
               "ViewState": "AQIAACoBAAAAAAAAAAAcwDQBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-17T22:27:03.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T22:27:03.686Z"
             }
           ]
         }

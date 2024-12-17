@@ -1,3 +1,4 @@
 ﻿  Week5_LinkedList.cpp
-C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\Week5_LinkedList\Week5_LinkedList.cpp(224,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-  Week5_LinkedList.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\x64\Debug\Week5_LinkedList.exe
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\Week5_LinkedList\Week5_LinkedList.cpp(224,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  LINK : C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\x64\Debug\Week5_LinkedList.exe not found or not built by the last incremental link; performing full link
+  Week5_LinkedList.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\x64\Debug\Week5_LinkedList.exe

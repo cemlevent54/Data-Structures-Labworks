@@ -1,3 +1,4 @@
 ﻿  Week4_ContiguousAllocation.cpp
-C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\Week4_ContiguousAllocation\Week4_ContiguousAllocation.cpp(62,9): warning C4984: 'if constexpr' is a C++17 language extension
-  Week4_ContiguousAllocation.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data_Structures_Course_Lab\x64\Debug\Week4_ContiguousAllocation.exe
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\Week4_ContiguousAllocation\Week4_ContiguousAllocation.cpp(62,9): warning C4984: 'if constexpr' is a C++17 language extension
+  LINK : C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\x64\Debug\Week4_ContiguousAllocation.exe not found or not built by the last incremental link; performing full link
+  Week4_ContiguousAllocation.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Veri_Yapıları_Lab\Data-Structures-Labworks\x64\Debug\Week4_ContiguousAllocation.exe
