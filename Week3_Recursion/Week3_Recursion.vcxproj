@@ -24,6 +24,7 @@
     <ProjectGuid>{ac078575-65bb-48bc-bcd9-285b4097810d}</ProjectGuid>
     <RootNamespace>Week3Recursion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Week03_Recursion</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

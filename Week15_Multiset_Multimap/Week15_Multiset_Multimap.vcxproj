@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{03d862ca-02ce-4165-bc81-7cd5430620f2}</ProjectGuid>
-    <RootNamespace>Week6Stack</RootNamespace>
+    <ProjectGuid>{d11988f5-83fa-4589-b7d7-e0ec4a59377f}</ProjectGuid>
+    <RootNamespace>Week15MultisetMultimap</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Week06_Stack</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Week6_Stack.cpp" />
+    <ClCompile Include="Week15_Multiset_Multimap.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
